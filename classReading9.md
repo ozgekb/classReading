@@ -1,0 +1,1 @@
+To find error it is important to know order of execution of code.When javascript statement generates error ,exception throws.We can track our errors from the browser console.If our code has error we can debug the code or handle with try catch and finally.
